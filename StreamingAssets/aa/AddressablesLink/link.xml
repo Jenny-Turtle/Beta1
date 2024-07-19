@@ -21,6 +21,7 @@
     <type fullname="CupidInteract" preserve="all" />
     <type fullname="CupidInvulnableAnimation" preserve="all" />
     <type fullname="CupitHitAnimation" preserve="all" />
+    <type fullname="CupitPrompt" preserve="all" />
     <type fullname="DoubleBarDisplay" preserve="all" />
     <type fullname="FloatingPlatform" preserve="all" />
     <type fullname="GetMagic" preserve="all" />
